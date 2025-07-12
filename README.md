@@ -89,4 +89,4 @@ This project is open-source and free to use under the **MIT License**.
 
 **Emran Ali**  
 💼 CSE, University of Chittagong  
-📬 [LinkedIn](www.linkedin.com/in/emran-ali-3b53342a7) *(Replace with actual link)*
+📬 [LinkedIn](www.linkedin.com/in/emran-ali-3b53342a7)
