@@ -1,0 +1,99 @@
+drug_name,side_effect,side_effect_1,side_effect_2,side_effect_3,side_effect_4,disease_name,clinical_trial_main_researcher
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Adenocarcinoma,Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Complementary component deficiency,Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"IgG receptor I, phagocytic, familial deficiency of",Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Lupus erythematosus,Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Lymphoma,Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Neutropenia,Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Nonsmall cell lung cancer,Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Viral infection,Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Adenocarcinoma of lung, response to tyrosine kinase inhibitor in, 211980",Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"C1q deficiency, type A",Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"C1q deficiency, type B",Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"C1s deficiency, isolated",Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Lupus nephritis, susceptibility to",Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Lymphoma, progression of",Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Neutropenia, alloimmune neonatal",Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Nonsmall cell lung cancer, response to tyrosine kinase inhibitor in, 211980",Wolfgang Hilbe
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Viral infections, recurrent",Wolfgang Hilbe
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,"Interleukin-2 receptor, alpha chain, deficiency of",Wolfgang Hilbe
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,Severe combined immunodeficiency,Wolfgang Hilbe
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,Combined immunodeficiency,Wolfgang Hilbe
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,"Combined immunodeficiency, X-linked, moderate, 312863",Wolfgang Hilbe
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,"Severe combined immunodeficiency, X-linked, 300400",Wolfgang Hilbe
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Asthma,"Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Asthma,"John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Complementary component deficiency,"Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Complementary component deficiency,"John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Dementia,"Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Dementia,"John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of","Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of","John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lupus erythematosus,"Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lupus erythematosus,"John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lymphoma,"Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lymphoma,"John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Malaria,"Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Malaria,"John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Migraine,"Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Migraine,"John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Myocardial infarction,"Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Myocardial infarction,"John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Neutropenia,"Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Neutropenia,"John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Sepsis,"Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Sepsis,"John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Viral infection,"Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Viral infection,"John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Asthma, susceptibility to, 600807","Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Asthma, susceptibility to, 600807","John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type A","Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type A","John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type B","Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type B","John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1s deficiency, isolated","Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1s deficiency, isolated","John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Dementia, vascular, susceptibility to","Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Dementia, vascular, susceptibility to","John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lupus nephritis, susceptibility to","Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lupus nephritis, susceptibility to","John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lymphoma, progression of","Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lymphoma, progression of","John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Malaria, cerebral, susceptibility to","Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Malaria, cerebral, susceptibility to","John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Migraine without aura, susceptibility to, 157300","Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Migraine without aura, susceptibility to, 157300","John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Myocardial infarction, susceptibility to","Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Myocardial infarction, susceptibility to","John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Neutropenia, alloimmune neonatal","Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Neutropenia, alloimmune neonatal","John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Septic shock, susceptibility to","Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Septic shock, susceptibility to","John Levine, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Viral infections, recurrent","Boni Elewski, MD"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Viral infections, recurrent","John Levine, MD"
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,Alzheimer disease,"John Levine, MD"
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,"Conjunctivitis, ligneous","John Levine, MD"
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,Plasminogen deficiency,"John Levine, MD"
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,"Alzheimer disease, late-onset, susceptibility to, 104300","John Levine, MD"
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,"Conjunctivitis, ligneous, 217090","John Levine, MD"
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,Plasminogen Tochigi disease,"John Levine, MD"
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Complementary component deficiency,Prof. Anna Sonia Petronio
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Glanzmann thrombasthenia,Prof. Anna Sonia Petronio
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",Prof. Anna Sonia Petronio
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Lupus erythematosus,Prof. Anna Sonia Petronio
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Lymphoma,Prof. Anna Sonia Petronio
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Neutropenia,Prof. Anna Sonia Petronio
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Viral infection,Prof. Anna Sonia Petronio
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"C1q deficiency, type A",Prof. Anna Sonia Petronio
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"C1q deficiency, type B",Prof. Anna Sonia Petronio
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",Prof. Anna Sonia Petronio
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"Glanzmann thrombasthenia, type B",Prof. Anna Sonia Petronio
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Asthma,Djillali Annane
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Atherosclerosis,Djillali Annane
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Cortisol resistance,Djillali Annane
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Malaria,Djillali Annane
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Obesity,Djillali Annane
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Asthma, dimished response to antileukotriene treatment in, 600807",Djillali Annane
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Atherosclerosis, susceptibility to",Djillali Annane
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Malaria, resistance to, 248310",Djillali Annane
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Obesity, adrenal insufficiency, and red hair",Djillali Annane

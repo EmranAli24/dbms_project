@@ -1,47 +1,27 @@
-# Byte-compiled / optimized / DLL files
+# Python
 __pycache__/
-*.py[cod]
-*$py.class
-
-# Jupyter Notebook checkpoints
-.ipynb_checkpoints/
-
-# Data files (if you want to ignore big data, uncomment below)
-# *.csv
-# *.tsv
-# *.json
-
-# Virtual environments
+*.pyc
+*.pyo
+*.pyd
+.Python
 env/
 venv/
-ENV/
-env.bak/
-venv.bak/
+.env
 
-# Distribution / packaging
-build/
-dist/
-*.egg-info/
-.eggs/
+# Jupyter Notebook
+.ipynb_checkpoints
 
-# PyInstaller
-*.manifest
-*.spec
-
-# VS Code settings
+# IDE / Editor specific
+.idea/
 .vscode/
 
-# macOS system files
+# OS-specific
 .DS_Store
+Thumbs.db
 
-# Logs and databases
-*.log
-*.sqlite3
-
-# Graphviz output files
-*.png
-*.pdf
-*.dot
-
-# Others
-*.swp
+# Data files - It's good practice to not commit large data files to Git.
+# The .gitkeep files will ensure the directories are tracked.
+data/raw/*
+!data/raw/.gitkeep
+data/processed/*
+!data/processed/.gitkeep

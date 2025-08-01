@@ -1,0 +1,99 @@
+drug_name,side_effect,side_effect_1,side_effect_2,side_effect_3,side_effect_4,disease_name,clinical_trial_completion_date
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Adenocarcinoma,2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Complementary component deficiency,2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"IgG receptor I, phagocytic, familial deficiency of",2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Lupus erythematosus,2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Lymphoma,2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Neutropenia,2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Nonsmall cell lung cancer,2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Viral infection,2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Adenocarcinoma of lung, response to tyrosine kinase inhibitor in, 211980",2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"C1q deficiency, type A",2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"C1q deficiency, type B",2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"C1s deficiency, isolated",2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Lupus nephritis, susceptibility to",2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Lymphoma, progression of",2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Neutropenia, alloimmune neonatal",2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Nonsmall cell lung cancer, response to tyrosine kinase inhibitor in, 211980",2011.06.01
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Viral infections, recurrent",2011.06.01
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,"Interleukin-2 receptor, alpha chain, deficiency of",2011.06.01
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,Severe combined immunodeficiency,2011.06.01
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,Combined immunodeficiency,2011.06.01
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,"Combined immunodeficiency, X-linked, moderate, 312863",2011.06.01
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,"Severe combined immunodeficiency, X-linked, 300400",2011.06.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Asthma,2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Asthma,2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Complementary component deficiency,2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Complementary component deficiency,2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Dementia,2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Dementia,2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lupus erythematosus,2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lupus erythematosus,2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lymphoma,2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lymphoma,2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Malaria,2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Malaria,2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Migraine,2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Migraine,2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Myocardial infarction,2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Myocardial infarction,2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Neutropenia,2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Neutropenia,2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Sepsis,2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Sepsis,2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Viral infection,2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Viral infection,2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Asthma, susceptibility to, 600807",2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Asthma, susceptibility to, 600807",2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type A",2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type A",2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type B",2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type B",2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Dementia, vascular, susceptibility to",2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Dementia, vascular, susceptibility to",2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lupus nephritis, susceptibility to",2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lupus nephritis, susceptibility to",2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lymphoma, progression of",2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lymphoma, progression of",2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Malaria, cerebral, susceptibility to",2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Malaria, cerebral, susceptibility to",2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Migraine without aura, susceptibility to, 157300",2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Migraine without aura, susceptibility to, 157300",2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Myocardial infarction, susceptibility to",2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Myocardial infarction, susceptibility to",2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Neutropenia, alloimmune neonatal",2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Neutropenia, alloimmune neonatal",2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Septic shock, susceptibility to",2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Septic shock, susceptibility to",2015.09.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Viral infections, recurrent",2012.04.01
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Viral infections, recurrent",2015.09.01
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,Alzheimer disease,2015.09.01
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,"Conjunctivitis, ligneous",2015.09.01
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,Plasminogen deficiency,2015.09.01
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,"Alzheimer disease, late-onset, susceptibility to, 104300",2015.09.01
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,"Conjunctivitis, ligneous, 217090",2015.09.01
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,Plasminogen Tochigi disease,2015.09.01
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Complementary component deficiency,2008.12.01
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Glanzmann thrombasthenia,2008.12.01
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",2008.12.01
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Lupus erythematosus,2008.12.01
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Lymphoma,2008.12.01
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Neutropenia,2008.12.01
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Viral infection,2008.12.01
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"C1q deficiency, type A",2008.12.01
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"C1q deficiency, type B",2008.12.01
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",2008.12.01
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"Glanzmann thrombasthenia, type B",2008.12.01
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Asthma,2011.12.01
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Atherosclerosis,2011.12.01
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Cortisol resistance,2011.12.01
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Malaria,2011.12.01
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Obesity,2011.12.01
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Asthma, dimished response to antileukotriene treatment in, 600807",2011.12.01
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Atherosclerosis, susceptibility to",2011.12.01
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Malaria, resistance to, 248310",2011.12.01
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Obesity, adrenal insufficiency, and red hair",2011.12.01

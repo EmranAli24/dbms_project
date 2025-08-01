@@ -1,0 +1,71 @@
+{
+  "relations": [
+    {
+      "table": "table_1",
+      "attributes": [
+        "city",
+        "country",
+        "department_name",
+        "dependent_1",
+        "dependent_2",
+        "email_address",
+        "employee_id",
+        "full_name",
+        "hire_date",
+        "phone_number",
+        "phone_number_1"
+      ],
+      "num_rows": 100,
+      "csv": "data/normalized/3nf_jr/table_1.csv"
+    },
+    {
+      "table": "table_2",
+      "attributes": [
+        "city",
+        "country",
+        "department_name",
+        "dependent",
+        "email_address",
+        "employee_id",
+        "full_name",
+        "hire_date",
+        "phone_number",
+        "phone_number_1"
+      ],
+      "num_rows": 105,
+      "csv": "data/normalized/3nf_jr/table_2.csv"
+    },
+    {
+      "table": "table_3",
+      "attributes": [
+        "dependent",
+        "dependent_1",
+        "dependent_2"
+      ],
+      "num_rows": 80,
+      "csv": "data/normalized/3nf_jr/table_3.csv"
+    }
+  ],
+  "candidate_keys": [
+    [
+      "employee_id",
+      "dependent"
+    ],
+    [
+      "full_name",
+      "dependent"
+    ],
+    [
+      "email_address",
+      "dependent"
+    ],
+    [
+      "dependent",
+      "phone_number"
+    ],
+    [
+      "dependent",
+      "hire_date"
+    ]
+  ]
+}

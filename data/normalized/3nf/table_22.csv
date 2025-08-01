@@ -1,0 +1,6 @@
+side_effect_2,clinical_trial_status,clinical_trial_condition_1
+cough,Completed,Laryngeal Neoplasms
+pain,Completed,Laryngeal Neoplasms
+nausea,Completed,Psoriasis
+nausea,"Active, not recruiting",Psoriasis
+nausea,Terminated,Influenza in Humans

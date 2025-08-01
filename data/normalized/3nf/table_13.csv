@@ -1,0 +1,8 @@
+side_effect_1,interacts_with,interacts_with_1,interacts_with_2,drug_category,clinical_trial_condition_1,clinical_trial_address,clinical_trial_condition_2
+headache,,,,Antineoplastic agents,Laryngeal Neoplasms,Austria,Mouth Neoplasms
+abdominal pain,,,,Antirheumatic agents,Psoriasis,United States,Melanoma
+abdominal pain,,,,Immunomodulatory agents,Psoriasis,United States,Melanoma
+fever,,,,Thrombolytic agents,Psoriasis,United States,Melanoma
+fever,,,,Anticoagulants,Psoriasis,Italy,Melanoma
+fever,,,,Antiplatelet agents,Psoriasis,Italy,Melanoma
+fever,butabarbital,salsalate,midodrine,Anti-inflammatory agents,Influenza in Humans,France,Melanoma

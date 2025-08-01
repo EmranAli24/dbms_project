@@ -1,0 +1,99 @@
+drug_name,side_effect,side_effect_1,side_effect_2,side_effect_3,side_effect_4,disease_name,clinical_trial_institution
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Adenocarcinoma,Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Complementary component deficiency,Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"IgG receptor I, phagocytic, familial deficiency of",Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Lupus erythematosus,Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Lymphoma,Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Neutropenia,Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Nonsmall cell lung cancer,Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Viral infection,Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Adenocarcinoma of lung, response to tyrosine kinase inhibitor in, 211980",Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"C1q deficiency, type A",Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"C1q deficiency, type B",Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"C1s deficiency, isolated",Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Lupus nephritis, susceptibility to",Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Lymphoma, progression of",Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Neutropenia, alloimmune neonatal",Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Nonsmall cell lung cancer, response to tyrosine kinase inhibitor in, 211980",Medical University of Vienna
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Viral infections, recurrent",Medical University of Vienna
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,"Interleukin-2 receptor, alpha chain, deficiency of",Medical University of Vienna
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,Severe combined immunodeficiency,Medical University of Vienna
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,Combined immunodeficiency,Medical University of Vienna
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,"Combined immunodeficiency, X-linked, moderate, 312863",Medical University of Vienna
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,"Severe combined immunodeficiency, X-linked, 300400",Medical University of Vienna
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Asthma,University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Asthma,University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Complementary component deficiency,University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Complementary component deficiency,University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Dementia,University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Dementia,University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lupus erythematosus,University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lupus erythematosus,University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lymphoma,University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lymphoma,University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Malaria,University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Malaria,University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Migraine,University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Migraine,University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Myocardial infarction,University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Myocardial infarction,University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Neutropenia,University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Neutropenia,University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Sepsis,University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Sepsis,University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Viral infection,University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Viral infection,University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Asthma, susceptibility to, 600807",University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Asthma, susceptibility to, 600807",University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type A",University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type A",University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type B",University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type B",University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Dementia, vascular, susceptibility to",University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Dementia, vascular, susceptibility to",University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lupus nephritis, susceptibility to",University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lupus nephritis, susceptibility to",University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lymphoma, progression of",University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lymphoma, progression of",University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Malaria, cerebral, susceptibility to",University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Malaria, cerebral, susceptibility to",University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Migraine without aura, susceptibility to, 157300",University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Migraine without aura, susceptibility to, 157300",University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Myocardial infarction, susceptibility to",University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Myocardial infarction, susceptibility to",University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Neutropenia, alloimmune neonatal",University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Neutropenia, alloimmune neonatal",University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Septic shock, susceptibility to",University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Septic shock, susceptibility to",University of Michigan Cancer Center
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Viral infections, recurrent",University of Alabama at Birmingham
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Viral infections, recurrent",University of Michigan Cancer Center
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,Alzheimer disease,University of Michigan Cancer Center
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,"Conjunctivitis, ligneous",University of Michigan Cancer Center
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,Plasminogen deficiency,University of Michigan Cancer Center
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,"Alzheimer disease, late-onset, susceptibility to, 104300",University of Michigan Cancer Center
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,"Conjunctivitis, ligneous, 217090",University of Michigan Cancer Center
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,Plasminogen Tochigi disease,University of Michigan Cancer Center
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Complementary component deficiency,University of Pisa
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Glanzmann thrombasthenia,University of Pisa
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",University of Pisa
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Lupus erythematosus,University of Pisa
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Lymphoma,University of Pisa
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Neutropenia,University of Pisa
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Viral infection,University of Pisa
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"C1q deficiency, type A",University of Pisa
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"C1q deficiency, type B",University of Pisa
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",University of Pisa
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"Glanzmann thrombasthenia, type B",University of Pisa
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Asthma,University of Versailles
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Atherosclerosis,University of Versailles
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Cortisol resistance,University of Versailles
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Malaria,University of Versailles
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Obesity,University of Versailles
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Asthma, dimished response to antileukotriene treatment in, 600807",University of Versailles
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Atherosclerosis, susceptibility to",University of Versailles
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Malaria, resistance to, 248310",University of Versailles
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Obesity, adrenal insufficiency, and red hair",University of Versailles

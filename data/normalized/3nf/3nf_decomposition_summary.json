@@ -1,0 +1,363 @@
+{
+  "relations": [
+    {
+      "table": "table_1",
+      "attributes": [
+        "clinical_trial_address",
+        "clinical_trial_condition_1",
+        "clinical_trial_condition_2",
+        "company_name",
+        "drug_name",
+        "interacts_with",
+        "interacts_with_1",
+        "interacts_with_2",
+        "product_name",
+        "side_effect",
+        "side_effect_1",
+        "side_effect_2",
+        "side_effect_3",
+        "side_effect_4"
+      ],
+      "num_rows": 17,
+      "csv": "data/normalized/3nf/table_1.csv"
+    },
+    {
+      "table": "table_2",
+      "attributes": [
+        "clinical_trial_address",
+        "clinical_trial_condition_1",
+        "clinical_trial_condition_2",
+        "disease_name",
+        "drug_name",
+        "interacts_with",
+        "interacts_with_1",
+        "interacts_with_2",
+        "side_effect",
+        "side_effect_1",
+        "side_effect_2",
+        "side_effect_3"
+      ],
+      "num_rows": 73,
+      "csv": "data/normalized/3nf/table_2.csv"
+    },
+    {
+      "table": "table_3",
+      "attributes": [
+        "clinical_trial_address",
+        "clinical_trial_condition_1",
+        "disease_name",
+        "drug_name",
+        "interacts_with",
+        "interacts_with_1",
+        "interacts_with_2",
+        "side_effect",
+        "side_effect_1",
+        "side_effect_2",
+        "side_effect_3",
+        "side_effect_4"
+      ],
+      "num_rows": 73,
+      "csv": "data/normalized/3nf/table_3.csv"
+    },
+    {
+      "table": "table_4",
+      "attributes": [
+        "disease_name",
+        "drug_category",
+        "drug_name",
+        "side_effect",
+        "side_effect_2",
+        "side_effect_3",
+        "side_effect_4"
+      ],
+      "num_rows": 109,
+      "csv": "data/normalized/3nf/table_4.csv"
+    },
+    {
+      "table": "table_5",
+      "attributes": [
+        "clinical_trial_title",
+        "disease_name",
+        "drug_name",
+        "side_effect",
+        "side_effect_1",
+        "side_effect_2",
+        "side_effect_3",
+        "side_effect_4"
+      ],
+      "num_rows": 98,
+      "csv": "data/normalized/3nf/table_5.csv"
+    },
+    {
+      "table": "table_6",
+      "attributes": [
+        "clinical_trial_start_date",
+        "disease_name",
+        "drug_name",
+        "side_effect",
+        "side_effect_1",
+        "side_effect_2",
+        "side_effect_3",
+        "side_effect_4"
+      ],
+      "num_rows": 98,
+      "csv": "data/normalized/3nf/table_6.csv"
+    },
+    {
+      "table": "table_7",
+      "attributes": [
+        "clinical_trial_completion_date",
+        "disease_name",
+        "drug_name",
+        "side_effect",
+        "side_effect_1",
+        "side_effect_2",
+        "side_effect_3",
+        "side_effect_4"
+      ],
+      "num_rows": 98,
+      "csv": "data/normalized/3nf/table_7.csv"
+    },
+    {
+      "table": "table_8",
+      "attributes": [
+        "clinical_trial_participants",
+        "disease_name",
+        "drug_name",
+        "side_effect",
+        "side_effect_1",
+        "side_effect_2",
+        "side_effect_3",
+        "side_effect_4"
+      ],
+      "num_rows": 98,
+      "csv": "data/normalized/3nf/table_8.csv"
+    },
+    {
+      "table": "table_9",
+      "attributes": [
+        "clinical_trial_condition",
+        "disease_name",
+        "drug_name",
+        "side_effect",
+        "side_effect_1",
+        "side_effect_2",
+        "side_effect_3",
+        "side_effect_4"
+      ],
+      "num_rows": 98,
+      "csv": "data/normalized/3nf/table_9.csv"
+    },
+    {
+      "table": "table_10",
+      "attributes": [
+        "clinical_trial_institution",
+        "disease_name",
+        "drug_name",
+        "side_effect",
+        "side_effect_1",
+        "side_effect_2",
+        "side_effect_3",
+        "side_effect_4"
+      ],
+      "num_rows": 98,
+      "csv": "data/normalized/3nf/table_10.csv"
+    },
+    {
+      "table": "table_11",
+      "attributes": [
+        "clinical_trial_address_1",
+        "disease_name",
+        "drug_name",
+        "side_effect",
+        "side_effect_1",
+        "side_effect_2",
+        "side_effect_3",
+        "side_effect_4"
+      ],
+      "num_rows": 98,
+      "csv": "data/normalized/3nf/table_11.csv"
+    },
+    {
+      "table": "table_12",
+      "attributes": [
+        "clinical_trial_main_researcher",
+        "disease_name",
+        "drug_name",
+        "side_effect",
+        "side_effect_1",
+        "side_effect_2",
+        "side_effect_3",
+        "side_effect_4"
+      ],
+      "num_rows": 98,
+      "csv": "data/normalized/3nf/table_12.csv"
+    },
+    {
+      "table": "table_13",
+      "attributes": [
+        "clinical_trial_address",
+        "clinical_trial_condition_1",
+        "clinical_trial_condition_2",
+        "drug_category",
+        "interacts_with",
+        "interacts_with_1",
+        "interacts_with_2",
+        "side_effect_1"
+      ],
+      "num_rows": 7,
+      "csv": "data/normalized/3nf/table_13.csv"
+    },
+    {
+      "table": "table_14",
+      "attributes": [
+        "clinical_trial_condition_2",
+        "disease_name",
+        "side_effect_2",
+        "side_effect_3",
+        "side_effect_4"
+      ],
+      "num_rows": 62,
+      "csv": "data/normalized/3nf/table_14.csv"
+    },
+    {
+      "table": "table_15",
+      "attributes": [
+        "clinical_trial_address",
+        "clinical_trial_address_1",
+        "clinical_trial_completion_date",
+        "clinical_trial_condition",
+        "clinical_trial_condition_1",
+        "clinical_trial_condition_2",
+        "clinical_trial_institution",
+        "clinical_trial_main_researcher",
+        "clinical_trial_participants",
+        "clinical_trial_start_date",
+        "clinical_trial_status",
+        "clinical_trial_title",
+        "interacts_with",
+        "interacts_with_1",
+        "interacts_with_2"
+      ],
+      "num_rows": 5,
+      "csv": "data/normalized/3nf/table_15.csv"
+    },
+    {
+      "table": "table_16",
+      "attributes": [
+        "disease_category",
+        "disease_name"
+      ],
+      "num_rows": 49,
+      "csv": "data/normalized/3nf/table_16.csv"
+    },
+    {
+      "table": "table_17",
+      "attributes": [
+        "clinical_trial_address_1",
+        "clinical_trial_completion_date",
+        "clinical_trial_condition",
+        "clinical_trial_institution",
+        "clinical_trial_main_researcher",
+        "clinical_trial_participants",
+        "clinical_trial_start_date",
+        "clinical_trial_status",
+        "clinical_trial_title",
+        "drug_name"
+      ],
+      "num_rows": 7,
+      "csv": "data/normalized/3nf/table_17.csv"
+    },
+    {
+      "table": "table_18",
+      "attributes": [
+        "clinical_trial_address",
+        "clinical_trial_address_1",
+        "clinical_trial_completion_date",
+        "clinical_trial_condition",
+        "clinical_trial_condition_1",
+        "clinical_trial_institution",
+        "clinical_trial_main_researcher",
+        "clinical_trial_participants",
+        "clinical_trial_start_date",
+        "clinical_trial_status",
+        "clinical_trial_title",
+        "side_effect_1"
+      ],
+      "num_rows": 6,
+      "csv": "data/normalized/3nf/table_18.csv"
+    },
+    {
+      "table": "table_19",
+      "attributes": [
+        "clinical_trial_address_1",
+        "clinical_trial_completion_date",
+        "clinical_trial_condition",
+        "clinical_trial_institution",
+        "clinical_trial_main_researcher",
+        "clinical_trial_participants",
+        "clinical_trial_start_date",
+        "clinical_trial_status",
+        "clinical_trial_title",
+        "drug_category"
+      ],
+      "num_rows": 9,
+      "csv": "data/normalized/3nf/table_19.csv"
+    },
+    {
+      "table": "table_20",
+      "attributes": [
+        "clinical_trial_address_1",
+        "clinical_trial_completion_date",
+        "clinical_trial_condition",
+        "clinical_trial_institution",
+        "clinical_trial_main_researcher",
+        "clinical_trial_participants",
+        "clinical_trial_start_date",
+        "clinical_trial_status",
+        "clinical_trial_title",
+        "product_name"
+      ],
+      "num_rows": 18,
+      "csv": "data/normalized/3nf/table_20.csv"
+    },
+    {
+      "table": "table_21",
+      "attributes": [
+        "clinical_trial_address_1",
+        "clinical_trial_completion_date",
+        "clinical_trial_condition",
+        "clinical_trial_institution",
+        "clinical_trial_main_researcher",
+        "clinical_trial_participants",
+        "clinical_trial_start_date",
+        "clinical_trial_status",
+        "clinical_trial_title",
+        "company_name"
+      ],
+      "num_rows": 17,
+      "csv": "data/normalized/3nf/table_21.csv"
+    },
+    {
+      "table": "table_22",
+      "attributes": [
+        "clinical_trial_condition_1",
+        "clinical_trial_status",
+        "side_effect_2"
+      ],
+      "num_rows": 5,
+      "csv": "data/normalized/3nf/table_22.csv"
+    },
+    {
+      "table": "table_23",
+      "attributes": [
+        "clinical_trial_condition_1",
+        "clinical_trial_status",
+        "side_effect_3"
+      ],
+      "num_rows": 5,
+      "csv": "data/normalized/3nf/table_23.csv"
+    }
+  ],
+  "candidate_keys": []
+}

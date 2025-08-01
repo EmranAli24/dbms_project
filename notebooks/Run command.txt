@@ -1,0 +1,8 @@
+# Step 1: Clean the HR data
+python scripts/01_data_cleaning.py --input_file data/raw/hr_test_data.csv --output_file data/processed/cleaned_hr_data.csv
+
+# Step 2: Discover FDs from the cleaned HR data
+python scripts/02_fd_discovery_for_normalization.py --input_file data/processed/cleaned_hr_data.csv --output_file data/processed/hr_fds.json
+
+# Step 3: Normalize the HR data
+python scripts/03_normalization.py --data_file data/processed/cleaned_hr_data.csv --fd_file data/processed/hr_fds.json --output_dir data/normalized_hr

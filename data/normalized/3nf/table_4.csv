@@ -1,0 +1,110 @@
+drug_name,side_effect,side_effect_2,side_effect_3,side_effect_4,disease_name,drug_category
+cetuximab,somnolence,cough,renal failure,carcinoma,Adenocarcinoma,Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,Complementary component deficiency,Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,"IgG receptor I, phagocytic, familial deficiency of",Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,Lupus erythematosus,Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,Lymphoma,Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,Neutropenia,Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,Nonsmall cell lung cancer,Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,Viral infection,Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,"Adenocarcinoma of lung, response to tyrosine kinase inhibitor in, 211980",Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,"C1q deficiency, type A",Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,"C1q deficiency, type B",Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,"C1s deficiency, isolated",Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,"Lupus nephritis, susceptibility to",Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,"Lymphoma, progression of",Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,"Neutropenia, alloimmune neonatal",Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,"Nonsmall cell lung cancer, response to tyrosine kinase inhibitor in, 211980",Antineoplastic agents
+cetuximab,somnolence,cough,renal failure,carcinoma,"Viral infections, recurrent",Antineoplastic agents
+denileukin diftitox,dizziness,pain,dehydration,vasodilatation,"Interleukin-2 receptor, alpha chain, deficiency of",Antineoplastic agents
+denileukin diftitox,dizziness,pain,dehydration,vasodilatation,Severe combined immunodeficiency,Antineoplastic agents
+denileukin diftitox,dizziness,pain,dehydration,vasodilatation,Combined immunodeficiency,Antineoplastic agents
+denileukin diftitox,dizziness,pain,dehydration,vasodilatation,"Combined immunodeficiency, X-linked, moderate, 312863",Antineoplastic agents
+denileukin diftitox,dizziness,pain,dehydration,vasodilatation,"Severe combined immunodeficiency, X-linked, 300400",Antineoplastic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Asthma,Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Asthma,Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Complementary component deficiency,Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Complementary component deficiency,Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Dementia,Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Dementia,Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Lupus erythematosus,Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Lupus erythematosus,Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Lymphoma,Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Lymphoma,Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Malaria,Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Malaria,Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Migraine,Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Migraine,Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Myocardial infarction,Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Myocardial infarction,Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Neutropenia,Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Neutropenia,Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Sepsis,Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Sepsis,Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Viral infection,Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,Viral infection,Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Asthma, susceptibility to, 600807",Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Asthma, susceptibility to, 600807",Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"C1q deficiency, type A",Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"C1q deficiency, type A",Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"C1q deficiency, type B",Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"C1q deficiency, type B",Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Dementia, vascular, susceptibility to",Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Dementia, vascular, susceptibility to",Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Lupus nephritis, susceptibility to",Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Lupus nephritis, susceptibility to",Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Lymphoma, progression of",Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Lymphoma, progression of",Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Malaria, cerebral, susceptibility to",Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Malaria, cerebral, susceptibility to",Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Migraine without aura, susceptibility to, 157300",Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Migraine without aura, susceptibility to, 157300",Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Myocardial infarction, susceptibility to",Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Myocardial infarction, susceptibility to",Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Neutropenia, alloimmune neonatal",Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Neutropenia, alloimmune neonatal",Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Septic shock, susceptibility to",Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Septic shock, susceptibility to",Immunomodulatory agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Viral infections, recurrent",Antirheumatic agents
+etanercept,dizziness,nausea,melanoma,vasodilatation,"Viral infections, recurrent",Immunomodulatory agents
+urokinase,back pain,nausea,melanoma,vasodilatation,Alzheimer disease,Thrombolytic agents
+urokinase,back pain,nausea,melanoma,vasodilatation,"Conjunctivitis, ligneous",Thrombolytic agents
+urokinase,back pain,nausea,melanoma,vasodilatation,Plasminogen deficiency,Thrombolytic agents
+urokinase,back pain,nausea,melanoma,vasodilatation,"Alzheimer disease, late-onset, susceptibility to, 104300",Thrombolytic agents
+urokinase,back pain,nausea,melanoma,vasodilatation,"Conjunctivitis, ligneous, 217090",Thrombolytic agents
+urokinase,back pain,nausea,melanoma,vasodilatation,Plasminogen Tochigi disease,Thrombolytic agents
+abciximab,back pain,nausea,melanoma,vasodilatation,Complementary component deficiency,Anticoagulants
+abciximab,back pain,nausea,melanoma,vasodilatation,Complementary component deficiency,Antiplatelet agents
+abciximab,back pain,nausea,melanoma,vasodilatation,Glanzmann thrombasthenia,Anticoagulants
+abciximab,back pain,nausea,melanoma,vasodilatation,Glanzmann thrombasthenia,Antiplatelet agents
+abciximab,back pain,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",Anticoagulants
+abciximab,back pain,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",Antiplatelet agents
+abciximab,back pain,nausea,melanoma,vasodilatation,Lupus erythematosus,Anticoagulants
+abciximab,back pain,nausea,melanoma,vasodilatation,Lupus erythematosus,Antiplatelet agents
+abciximab,back pain,nausea,melanoma,vasodilatation,Lymphoma,Anticoagulants
+abciximab,back pain,nausea,melanoma,vasodilatation,Lymphoma,Antiplatelet agents
+abciximab,back pain,nausea,melanoma,vasodilatation,Neutropenia,Anticoagulants
+abciximab,back pain,nausea,melanoma,vasodilatation,Neutropenia,Antiplatelet agents
+abciximab,back pain,nausea,melanoma,vasodilatation,Viral infection,Anticoagulants
+abciximab,back pain,nausea,melanoma,vasodilatation,Viral infection,Antiplatelet agents
+abciximab,back pain,nausea,melanoma,vasodilatation,"C1q deficiency, type A",Anticoagulants
+abciximab,back pain,nausea,melanoma,vasodilatation,"C1q deficiency, type A",Antiplatelet agents
+abciximab,back pain,nausea,melanoma,vasodilatation,"C1q deficiency, type B",Anticoagulants
+abciximab,back pain,nausea,melanoma,vasodilatation,"C1q deficiency, type B",Antiplatelet agents
+abciximab,back pain,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",Anticoagulants
+abciximab,back pain,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",Antiplatelet agents
+abciximab,back pain,nausea,melanoma,vasodilatation,"Glanzmann thrombasthenia, type B",Anticoagulants
+abciximab,back pain,nausea,melanoma,vasodilatation,"Glanzmann thrombasthenia, type B",Antiplatelet agents
+hydrocortisone,back pain,nausea,melanoma,vasodilatation,Asthma,Anti-inflammatory agents
+hydrocortisone,back pain,nausea,melanoma,vasodilatation,Atherosclerosis,Anti-inflammatory agents
+hydrocortisone,back pain,nausea,melanoma,vasodilatation,Cortisol resistance,Anti-inflammatory agents
+hydrocortisone,back pain,nausea,melanoma,vasodilatation,Malaria,Anti-inflammatory agents
+hydrocortisone,back pain,nausea,melanoma,vasodilatation,Obesity,Anti-inflammatory agents
+hydrocortisone,back pain,nausea,melanoma,vasodilatation,"Asthma, dimished response to antileukotriene treatment in, 600807",Anti-inflammatory agents
+hydrocortisone,back pain,nausea,melanoma,vasodilatation,"Atherosclerosis, susceptibility to",Anti-inflammatory agents
+hydrocortisone,back pain,nausea,melanoma,vasodilatation,"Malaria, resistance to, 248310",Anti-inflammatory agents
+hydrocortisone,back pain,nausea,melanoma,vasodilatation,"Obesity, adrenal insufficiency, and red hair",Anti-inflammatory agents

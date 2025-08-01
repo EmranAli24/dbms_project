@@ -1,0 +1,603 @@
+{
+  "product_name": [
+    "drug_name",
+    "side_effect",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4",
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "company_name",
+    "clinical_trial_condition_1",
+    "clinical_trial_address",
+    "clinical_trial_condition_2"
+  ],
+  "company_name": [
+    "drug_name",
+    "side_effect",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4",
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "clinical_trial_condition_1",
+    "clinical_trial_address",
+    "clinical_trial_condition_2"
+  ],
+  "side_effect,disease_name": [
+    "drug_name",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3",
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "clinical_trial_condition_1",
+    "clinical_trial_address",
+    "clinical_trial_condition_2"
+  ],
+  "side_effect,drug_category": [
+    "drug_name",
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect,clinical_trial_title": [
+    "drug_name",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect,clinical_trial_start_date": [
+    "drug_name",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect,clinical_trial_completion_date": [
+    "drug_name",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect,clinical_trial_participants": [
+    "drug_name",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect,clinical_trial_condition": [
+    "drug_name",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect,clinical_trial_address": [
+    "drug_name",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect,clinical_trial_institution": [
+    "drug_name",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect,clinical_trial_address_1": [
+    "drug_name",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect,clinical_trial_main_researcher": [
+    "drug_name",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect_1,disease_name": [
+    "drug_name",
+    "side_effect",
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4",
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "clinical_trial_condition_1",
+    "clinical_trial_address"
+  ],
+  "side_effect_2,drug_category": [
+    "drug_name",
+    "side_effect"
+  ],
+  "side_effect_3,drug_category": [
+    "drug_name",
+    "side_effect"
+  ],
+  "side_effect_4,drug_category": [
+    "drug_name",
+    "side_effect",
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "disease_name,drug_category": [
+    "drug_name",
+    "side_effect",
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4"
+  ],
+  "disease_name,clinical_trial_title": [
+    "drug_name",
+    "side_effect",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4"
+  ],
+  "disease_name,clinical_trial_start_date": [
+    "drug_name",
+    "side_effect",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4"
+  ],
+  "disease_name,clinical_trial_completion_date": [
+    "drug_name",
+    "side_effect",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4"
+  ],
+  "disease_name,clinical_trial_participants": [
+    "drug_name",
+    "side_effect",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4"
+  ],
+  "disease_name,clinical_trial_condition": [
+    "drug_name",
+    "side_effect",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4"
+  ],
+  "disease_name,clinical_trial_address": [
+    "drug_name",
+    "side_effect",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4"
+  ],
+  "disease_name,clinical_trial_institution": [
+    "drug_name",
+    "side_effect",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4"
+  ],
+  "disease_name,clinical_trial_address_1": [
+    "drug_name",
+    "side_effect",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4"
+  ],
+  "disease_name,clinical_trial_main_researcher": [
+    "drug_name",
+    "side_effect",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4"
+  ],
+  "drug_name": [
+    "side_effect",
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4",
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "clinical_trial_condition_1",
+    "clinical_trial_address",
+    "clinical_trial_condition_2"
+  ],
+  "side_effect_1,side_effect_2": [
+    "side_effect"
+  ],
+  "side_effect_1,side_effect_3": [
+    "side_effect"
+  ],
+  "side_effect_1,side_effect_4": [
+    "side_effect",
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "drug_category": [
+    "side_effect_1",
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "clinical_trial_condition_1",
+    "clinical_trial_address",
+    "clinical_trial_condition_2"
+  ],
+  "side_effect,side_effect_2": [
+    "side_effect_1"
+  ],
+  "side_effect,side_effect_3": [
+    "side_effect_1"
+  ],
+  "side_effect,clinical_trial_condition_1": [
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect,clinical_trial_condition_2": [
+    "side_effect_1",
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect_3": [
+    "side_effect_2",
+    "side_effect_4",
+    "clinical_trial_condition_2"
+  ],
+  "side_effect,side_effect_1": [
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect_4,disease_name": [
+    "side_effect_2",
+    "side_effect_3",
+    "clinical_trial_condition_2"
+  ],
+  "side_effect_4,clinical_trial_title": [
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect_4,clinical_trial_start_date": [
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect_4,clinical_trial_completion_date": [
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect_4,clinical_trial_participants": [
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect_4,clinical_trial_condition": [
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect_4,clinical_trial_condition_1": [
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect_4,clinical_trial_address": [
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect_4,clinical_trial_institution": [
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect_4,clinical_trial_address_1": [
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect_4,clinical_trial_main_researcher": [
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "side_effect_4,clinical_trial_condition_2": [
+    "side_effect_2",
+    "side_effect_3"
+  ],
+  "disease_name,clinical_trial_condition_1": [
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4"
+  ],
+  "disease_name,clinical_trial_condition_2": [
+    "side_effect_2",
+    "side_effect_3",
+    "side_effect_4"
+  ],
+  "side_effect_2": [
+    "side_effect_3",
+    "side_effect_4",
+    "clinical_trial_condition_2"
+  ],
+  "side_effect": [
+    "side_effect_4"
+  ],
+  "interacts_with_1": [
+    "interacts_with",
+    "interacts_with_2"
+  ],
+  "interacts_with_2": [
+    "interacts_with",
+    "interacts_with_1"
+  ],
+  "clinical_trial_title": [
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "clinical_trial_start_date",
+    "clinical_trial_completion_date",
+    "clinical_trial_participants",
+    "clinical_trial_status",
+    "clinical_trial_condition",
+    "clinical_trial_condition_1",
+    "clinical_trial_address",
+    "clinical_trial_institution",
+    "clinical_trial_address_1",
+    "clinical_trial_main_researcher",
+    "clinical_trial_condition_2"
+  ],
+  "clinical_trial_start_date": [
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "clinical_trial_title",
+    "clinical_trial_completion_date",
+    "clinical_trial_participants",
+    "clinical_trial_status",
+    "clinical_trial_condition",
+    "clinical_trial_condition_1",
+    "clinical_trial_address",
+    "clinical_trial_institution",
+    "clinical_trial_address_1",
+    "clinical_trial_main_researcher",
+    "clinical_trial_condition_2"
+  ],
+  "clinical_trial_completion_date": [
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "clinical_trial_title",
+    "clinical_trial_start_date",
+    "clinical_trial_participants",
+    "clinical_trial_status",
+    "clinical_trial_condition",
+    "clinical_trial_condition_1",
+    "clinical_trial_address",
+    "clinical_trial_institution",
+    "clinical_trial_address_1",
+    "clinical_trial_main_researcher",
+    "clinical_trial_condition_2"
+  ],
+  "clinical_trial_participants": [
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "clinical_trial_title",
+    "clinical_trial_start_date",
+    "clinical_trial_completion_date",
+    "clinical_trial_status",
+    "clinical_trial_condition",
+    "clinical_trial_condition_1",
+    "clinical_trial_address",
+    "clinical_trial_institution",
+    "clinical_trial_address_1",
+    "clinical_trial_main_researcher",
+    "clinical_trial_condition_2"
+  ],
+  "clinical_trial_status": [
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2"
+  ],
+  "clinical_trial_condition": [
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "clinical_trial_title",
+    "clinical_trial_start_date",
+    "clinical_trial_completion_date",
+    "clinical_trial_participants",
+    "clinical_trial_status",
+    "clinical_trial_condition_1",
+    "clinical_trial_address",
+    "clinical_trial_institution",
+    "clinical_trial_address_1",
+    "clinical_trial_main_researcher",
+    "clinical_trial_condition_2"
+  ],
+  "clinical_trial_condition_1": [
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "clinical_trial_condition_2"
+  ],
+  "clinical_trial_address": [
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "clinical_trial_condition_1",
+    "clinical_trial_condition_2"
+  ],
+  "clinical_trial_institution": [
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "clinical_trial_title",
+    "clinical_trial_start_date",
+    "clinical_trial_completion_date",
+    "clinical_trial_participants",
+    "clinical_trial_status",
+    "clinical_trial_condition",
+    "clinical_trial_condition_1",
+    "clinical_trial_address",
+    "clinical_trial_address_1",
+    "clinical_trial_main_researcher",
+    "clinical_trial_condition_2"
+  ],
+  "clinical_trial_address_1": [
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "clinical_trial_title",
+    "clinical_trial_start_date",
+    "clinical_trial_completion_date",
+    "clinical_trial_participants",
+    "clinical_trial_status",
+    "clinical_trial_condition",
+    "clinical_trial_condition_1",
+    "clinical_trial_address",
+    "clinical_trial_institution",
+    "clinical_trial_main_researcher",
+    "clinical_trial_condition_2"
+  ],
+  "clinical_trial_main_researcher": [
+    "interacts_with",
+    "interacts_with_1",
+    "interacts_with_2",
+    "clinical_trial_title",
+    "clinical_trial_start_date",
+    "clinical_trial_completion_date",
+    "clinical_trial_participants",
+    "clinical_trial_status",
+    "clinical_trial_condition",
+    "clinical_trial_condition_1",
+    "clinical_trial_address",
+    "clinical_trial_institution",
+    "clinical_trial_address_1",
+    "clinical_trial_condition_2"
+  ],
+  "interacts_with": [
+    "interacts_with_1",
+    "interacts_with_2"
+  ],
+  "disease_name": [
+    "disease_category"
+  ],
+  "drug_name,clinical_trial_status": [
+    "clinical_trial_title",
+    "clinical_trial_start_date",
+    "clinical_trial_completion_date",
+    "clinical_trial_participants",
+    "clinical_trial_condition",
+    "clinical_trial_institution",
+    "clinical_trial_address_1",
+    "clinical_trial_main_researcher"
+  ],
+  "side_effect_1,clinical_trial_status": [
+    "clinical_trial_title",
+    "clinical_trial_start_date",
+    "clinical_trial_completion_date",
+    "clinical_trial_participants",
+    "clinical_trial_condition",
+    "clinical_trial_condition_1",
+    "clinical_trial_address",
+    "clinical_trial_institution",
+    "clinical_trial_address_1",
+    "clinical_trial_main_researcher"
+  ],
+  "drug_category,clinical_trial_status": [
+    "clinical_trial_title",
+    "clinical_trial_start_date",
+    "clinical_trial_completion_date",
+    "clinical_trial_participants",
+    "clinical_trial_condition",
+    "clinical_trial_institution",
+    "clinical_trial_address_1",
+    "clinical_trial_main_researcher"
+  ],
+  "product_name,clinical_trial_status": [
+    "clinical_trial_title",
+    "clinical_trial_start_date",
+    "clinical_trial_completion_date",
+    "clinical_trial_participants",
+    "clinical_trial_condition",
+    "clinical_trial_institution",
+    "clinical_trial_address_1",
+    "clinical_trial_main_researcher"
+  ],
+  "company_name,clinical_trial_status": [
+    "clinical_trial_title",
+    "clinical_trial_start_date",
+    "clinical_trial_completion_date",
+    "clinical_trial_participants",
+    "clinical_trial_condition",
+    "clinical_trial_institution",
+    "clinical_trial_address_1",
+    "clinical_trial_main_researcher"
+  ],
+  "clinical_trial_status,clinical_trial_address": [
+    "clinical_trial_title",
+    "clinical_trial_start_date",
+    "clinical_trial_completion_date",
+    "clinical_trial_participants",
+    "clinical_trial_condition",
+    "clinical_trial_institution",
+    "clinical_trial_address_1",
+    "clinical_trial_main_researcher"
+  ],
+  "side_effect_1,interacts_with": [
+    "clinical_trial_condition_1"
+  ],
+  "side_effect_1,interacts_with_1": [
+    "clinical_trial_condition_1"
+  ],
+  "side_effect_1,interacts_with_2": [
+    "clinical_trial_condition_1"
+  ],
+  "side_effect_2,interacts_with": [
+    "clinical_trial_condition_1"
+  ],
+  "side_effect_2,interacts_with_1": [
+    "clinical_trial_condition_1"
+  ],
+  "side_effect_2,interacts_with_2": [
+    "clinical_trial_condition_1"
+  ],
+  "side_effect_2,clinical_trial_status": [
+    "clinical_trial_condition_1"
+  ],
+  "side_effect_3,interacts_with": [
+    "clinical_trial_condition_1"
+  ],
+  "side_effect_3,interacts_with_1": [
+    "clinical_trial_condition_1"
+  ],
+  "side_effect_3,interacts_with_2": [
+    "clinical_trial_condition_1"
+  ],
+  "side_effect_3,clinical_trial_status": [
+    "clinical_trial_condition_1"
+  ],
+  "interacts_with,clinical_trial_condition_2": [
+    "clinical_trial_condition_1"
+  ],
+  "interacts_with_1,clinical_trial_condition_2": [
+    "clinical_trial_condition_1"
+  ],
+  "interacts_with_2,clinical_trial_condition_2": [
+    "clinical_trial_condition_1"
+  ],
+  "clinical_trial_status,clinical_trial_condition_2": [
+    "clinical_trial_condition_1"
+  ],
+  "side_effect_1": [
+    "clinical_trial_condition_2"
+  ]
+}

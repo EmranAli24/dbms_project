@@ -1,0 +1,50 @@
+disease_name,disease_category
+Adenocarcinoma,Cancer
+Complementary component deficiency,Immunological
+"IgG receptor I, phagocytic, familial deficiency of",Immunological
+Lupus erythematosus,Connective tissue disorder
+Lymphoma,Cancer
+Neutropenia,Hematological
+Nonsmall cell lung cancer,Cancer
+Viral infection,Immunological
+"Adenocarcinoma of lung, response to tyrosine kinase inhibitor in, 211980",Cancer
+"C1q deficiency, type A",Immunological
+"C1q deficiency, type B",Immunological
+"C1s deficiency, isolated",Immunological
+"Lupus nephritis, susceptibility to",Connective tissue disorder
+"Lymphoma, progression of",Cancer
+"Neutropenia, alloimmune neonatal",Hematological
+"Nonsmall cell lung cancer, response to tyrosine kinase inhibitor in, 211980",Cancer
+"Viral infections, recurrent",Immunological
+"Interleukin-2 receptor, alpha chain, deficiency of",Immunological
+Severe combined immunodeficiency,Immunological
+Combined immunodeficiency,Immunological
+"Combined immunodeficiency, X-linked, moderate, 312863",Immunological
+"Severe combined immunodeficiency, X-linked, 300400",Immunological
+Asthma,Respiratory
+Dementia,Neurological
+Malaria,Immunological
+Migraine,Neurological
+Myocardial infarction,Cardiovascular
+Sepsis,Immunological
+"Asthma, susceptibility to, 600807",Respiratory
+"Dementia, vascular, susceptibility to",Neurological
+"Malaria, cerebral, susceptibility to",Immunological
+"Migraine without aura, susceptibility to, 157300",Neurological
+"Myocardial infarction, susceptibility to",Cardiovascular
+"Septic shock, susceptibility to",Immunological
+Alzheimer disease,Neurological
+"Conjunctivitis, ligneous",Ophthamological
+Plasminogen deficiency,Hematological
+"Alzheimer disease, late-onset, susceptibility to, 104300",Neurological
+"Conjunctivitis, ligneous, 217090",Ophthamological
+Plasminogen Tochigi disease,Hematological
+Glanzmann thrombasthenia,Hematological
+"Glanzmann thrombasthenia, type B",Hematological
+Atherosclerosis,Cardiovascular
+Cortisol resistance,Endocrine
+Obesity,Nutritional
+"Asthma, dimished response to antileukotriene treatment in, 600807",Respiratory
+"Atherosclerosis, susceptibility to",Cardiovascular
+"Malaria, resistance to, 248310",Immunological
+"Obesity, adrenal insufficiency, and red hair",Nutritional

@@ -1,0 +1,18 @@
+drug_name,side_effect,side_effect_1,side_effect_2,side_effect_3,side_effect_4,interacts_with,interacts_with_1,interacts_with_2,product_name,company_name,clinical_trial_condition_1,clinical_trial_address,clinical_trial_condition_2
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,ERBITUX,ImClone LLC,Laryngeal Neoplasms,Austria,Mouth Neoplasms
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,,,,Ontak,Eisai Inc.,Laryngeal Neoplasms,Austria,Mouth Neoplasms
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,ENBREL,Immunex Corporation,Psoriasis,United States,Melanoma
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,,,,Kinlytic,"ImaRx Therapeutics, Inc.",Psoriasis,United States,Melanoma
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,,,,REOPRO,Eli Lilly and Company,Psoriasis,Italy,Melanoma
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,MyOxin,"GM  Pharamceuticals, Inc",Influenza in Humans,France,Melanoma
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,Trioxin,"Vertical Pharmaceuticals, Inc",Influenza in Humans,France,Melanoma
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,Cipro,"Physicians Total Care, Inc.",Influenza in Humans,France,Melanoma
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,CIPRO,"Alcon Laboratories, Inc.",Influenza in Humans,France,Melanoma
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,Cipro HC,Stat Rx USA,Influenza in Humans,France,Melanoma
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,FIRST Dukes Mouthwash Compounding,"CutisPharma, Inc.",Influenza in Humans,France,Melanoma
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,FIRST Marys Mouthwash Compounding,"CutisPharma, Inc.",Influenza in Humans,France,Melanoma
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,Hydrocortisone,A-S Medication Solutions LLC,Influenza in Humans,France,Melanoma
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,Premier Value,Chain Drug Consortium,Influenza in Humans,France,Melanoma
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,Cortizone 10 Poison Ivy Relief Pads,"Chattem, Inc.",Influenza in Humans,France,Melanoma
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,Family Wellness Hydrocortisone,Family Dollar Services Inc,Influenza in Humans,France,Melanoma
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,Pramosone E,"Ferndale Laboratories, Inc.",Influenza in Humans,France,Melanoma

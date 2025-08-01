@@ -1,0 +1,99 @@
+drug_name,side_effect,side_effect_1,side_effect_2,side_effect_3,side_effect_4,disease_name,clinical_trial_condition
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Adenocarcinoma,"Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Complementary component deficiency,"Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"IgG receptor I, phagocytic, familial deficiency of","Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Lupus erythematosus,"Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Lymphoma,"Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Neutropenia,"Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Nonsmall cell lung cancer,"Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Viral infection,"Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Adenocarcinoma of lung, response to tyrosine kinase inhibitor in, 211980","Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"C1q deficiency, type A","Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"C1q deficiency, type B","Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"C1s deficiency, isolated","Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Lupus nephritis, susceptibility to","Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Lymphoma, progression of","Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Neutropenia, alloimmune neonatal","Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Nonsmall cell lung cancer, response to tyrosine kinase inhibitor in, 211980","Carcinoma, Non-small-cell Lung"
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Viral infections, recurrent","Carcinoma, Non-small-cell Lung"
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,"Interleukin-2 receptor, alpha chain, deficiency of","Carcinoma, Non-small-cell Lung"
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,Severe combined immunodeficiency,"Carcinoma, Non-small-cell Lung"
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,Combined immunodeficiency,"Carcinoma, Non-small-cell Lung"
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,"Combined immunodeficiency, X-linked, moderate, 312863","Carcinoma, Non-small-cell Lung"
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,"Severe combined immunodeficiency, X-linked, 300400","Carcinoma, Non-small-cell Lung"
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Asthma,Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Asthma,Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Complementary component deficiency,Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Complementary component deficiency,Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Dementia,Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Dementia,Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lupus erythematosus,Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lupus erythematosus,Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lymphoma,Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lymphoma,Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Malaria,Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Malaria,Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Migraine,Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Migraine,Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Myocardial infarction,Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Myocardial infarction,Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Neutropenia,Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Neutropenia,Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Sepsis,Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Sepsis,Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Viral infection,Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Viral infection,Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Asthma, susceptibility to, 600807",Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Asthma, susceptibility to, 600807",Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type A",Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type A",Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type B",Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type B",Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Dementia, vascular, susceptibility to",Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Dementia, vascular, susceptibility to",Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lupus nephritis, susceptibility to",Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lupus nephritis, susceptibility to",Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lymphoma, progression of",Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lymphoma, progression of",Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Malaria, cerebral, susceptibility to",Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Malaria, cerebral, susceptibility to",Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Migraine without aura, susceptibility to, 157300",Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Migraine without aura, susceptibility to, 157300",Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Myocardial infarction, susceptibility to",Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Myocardial infarction, susceptibility to",Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Neutropenia, alloimmune neonatal",Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Neutropenia, alloimmune neonatal",Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Septic shock, susceptibility to",Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Septic shock, susceptibility to",Graft Versus Host Disease
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Viral infections, recurrent",Non-melanoma Skin Cancer
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Viral infections, recurrent",Graft Versus Host Disease
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,Alzheimer disease,Graft Versus Host Disease
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,"Conjunctivitis, ligneous",Graft Versus Host Disease
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,Plasminogen deficiency,Graft Versus Host Disease
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,"Alzheimer disease, late-onset, susceptibility to, 104300",Graft Versus Host Disease
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,"Conjunctivitis, ligneous, 217090",Graft Versus Host Disease
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,Plasminogen Tochigi disease,Graft Versus Host Disease
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Complementary component deficiency,Myocardial Infarction
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Glanzmann thrombasthenia,Myocardial Infarction
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",Myocardial Infarction
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Lupus erythematosus,Myocardial Infarction
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Lymphoma,Myocardial Infarction
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Neutropenia,Myocardial Infarction
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Viral infection,Myocardial Infarction
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"C1q deficiency, type A",Myocardial Infarction
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"C1q deficiency, type B",Myocardial Infarction
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",Myocardial Infarction
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"Glanzmann thrombasthenia, type B",Myocardial Infarction
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Asthma,"Pneumonia, Viral"
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Atherosclerosis,"Pneumonia, Viral"
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Cortisol resistance,"Pneumonia, Viral"
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Malaria,"Pneumonia, Viral"
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Obesity,"Pneumonia, Viral"
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Asthma, dimished response to antileukotriene treatment in, 600807","Pneumonia, Viral"
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Atherosclerosis, susceptibility to","Pneumonia, Viral"
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Malaria, resistance to, 248310","Pneumonia, Viral"
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Obesity, adrenal insufficiency, and red hair","Pneumonia, Viral"

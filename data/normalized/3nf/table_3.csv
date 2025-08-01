@@ -1,0 +1,74 @@
+drug_name,side_effect,side_effect_1,side_effect_2,side_effect_3,side_effect_4,interacts_with,interacts_with_1,interacts_with_2,disease_name,clinical_trial_condition_1,clinical_trial_address
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,Adenocarcinoma,Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,Complementary component deficiency,Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,"IgG receptor I, phagocytic, familial deficiency of",Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,Lupus erythematosus,Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,Lymphoma,Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,Neutropenia,Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,Nonsmall cell lung cancer,Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,Viral infection,Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,"Adenocarcinoma of lung, response to tyrosine kinase inhibitor in, 211980",Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,"C1q deficiency, type A",Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,"C1q deficiency, type B",Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,"C1s deficiency, isolated",Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,"Lupus nephritis, susceptibility to",Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,"Lymphoma, progression of",Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,"Neutropenia, alloimmune neonatal",Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,"Nonsmall cell lung cancer, response to tyrosine kinase inhibitor in, 211980",Laryngeal Neoplasms,Austria
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,,,,"Viral infections, recurrent",Laryngeal Neoplasms,Austria
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,,,,"Interleukin-2 receptor, alpha chain, deficiency of",Laryngeal Neoplasms,Austria
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,,,,Severe combined immunodeficiency,Laryngeal Neoplasms,Austria
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,,,,Combined immunodeficiency,Laryngeal Neoplasms,Austria
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,,,,"Combined immunodeficiency, X-linked, moderate, 312863",Laryngeal Neoplasms,Austria
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,,,,"Severe combined immunodeficiency, X-linked, 300400",Laryngeal Neoplasms,Austria
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,Asthma,Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,Complementary component deficiency,Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,Dementia,Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,"IgG receptor I, phagocytic, familial deficiency of",Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,Lupus erythematosus,Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,Lymphoma,Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,Malaria,Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,Migraine,Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,Myocardial infarction,Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,Neutropenia,Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,Sepsis,Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,Viral infection,Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,"Asthma, susceptibility to, 600807",Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,"C1q deficiency, type A",Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,"C1q deficiency, type B",Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,"C1s deficiency, isolated",Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,"Dementia, vascular, susceptibility to",Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,"Lupus nephritis, susceptibility to",Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,"Lymphoma, progression of",Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,"Malaria, cerebral, susceptibility to",Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,"Migraine without aura, susceptibility to, 157300",Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,"Myocardial infarction, susceptibility to",Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,"Neutropenia, alloimmune neonatal",Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,"Septic shock, susceptibility to",Psoriasis,United States
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,,,,"Viral infections, recurrent",Psoriasis,United States
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,,,,Alzheimer disease,Psoriasis,United States
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,,,,"Conjunctivitis, ligneous",Psoriasis,United States
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,,,,Plasminogen deficiency,Psoriasis,United States
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,,,,"Alzheimer disease, late-onset, susceptibility to, 104300",Psoriasis,United States
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,,,,"Conjunctivitis, ligneous, 217090",Psoriasis,United States
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,,,,Plasminogen Tochigi disease,Psoriasis,United States
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,,,,Complementary component deficiency,Psoriasis,Italy
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,,,,Glanzmann thrombasthenia,Psoriasis,Italy
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,,,,"IgG receptor I, phagocytic, familial deficiency of",Psoriasis,Italy
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,,,,Lupus erythematosus,Psoriasis,Italy
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,,,,Lymphoma,Psoriasis,Italy
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,,,,Neutropenia,Psoriasis,Italy
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,,,,Viral infection,Psoriasis,Italy
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,,,,"C1q deficiency, type A",Psoriasis,Italy
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,,,,"C1q deficiency, type B",Psoriasis,Italy
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,,,,"C1s deficiency, isolated",Psoriasis,Italy
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,,,,"Glanzmann thrombasthenia, type B",Psoriasis,Italy
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,Asthma,Influenza in Humans,France
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,Atherosclerosis,Influenza in Humans,France
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,Cortisol resistance,Influenza in Humans,France
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,Malaria,Influenza in Humans,France
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,Obesity,Influenza in Humans,France
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,"Asthma, dimished response to antileukotriene treatment in, 600807",Influenza in Humans,France
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,"Atherosclerosis, susceptibility to",Influenza in Humans,France
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,"Malaria, resistance to, 248310",Influenza in Humans,France
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,butabarbital,salsalate,midodrine,"Obesity, adrenal insufficiency, and red hair",Influenza in Humans,France

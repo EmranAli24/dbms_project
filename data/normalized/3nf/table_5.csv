@@ -1,0 +1,99 @@
+drug_name,side_effect,side_effect_1,side_effect_2,side_effect_3,side_effect_4,disease_name,clinical_trial_title
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Adenocarcinoma,Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Complementary component deficiency,Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"IgG receptor I, phagocytic, familial deficiency of",Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Lupus erythematosus,Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Lymphoma,Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Neutropenia,Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Nonsmall cell lung cancer,Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,Viral infection,Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Adenocarcinoma of lung, response to tyrosine kinase inhibitor in, 211980",Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"C1q deficiency, type A",Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"C1q deficiency, type B",Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"C1s deficiency, isolated",Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Lupus nephritis, susceptibility to",Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Lymphoma, progression of",Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Neutropenia, alloimmune neonatal",Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Nonsmall cell lung cancer, response to tyrosine kinase inhibitor in, 211980",Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+cetuximab,somnolence,headache,cough,renal failure,carcinoma,"Viral infections, recurrent",Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,"Interleukin-2 receptor, alpha chain, deficiency of",Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,Severe combined immunodeficiency,Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,Combined immunodeficiency,Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,"Combined immunodeficiency, X-linked, moderate, 312863",Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+denileukin diftitox,dizziness,headache,pain,dehydration,vasodilatation,"Severe combined immunodeficiency, X-linked, 300400",Immune Response on Neoadjuvant Therapy in Non-small-cell Lung Cancer (NSCLC)
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Asthma,Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Asthma,Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Complementary component deficiency,Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Complementary component deficiency,Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Dementia,Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Dementia,Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lupus erythematosus,Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lupus erythematosus,Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lymphoma,Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Lymphoma,Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Malaria,Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Malaria,Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Migraine,Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Migraine,Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Myocardial infarction,Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Myocardial infarction,Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Neutropenia,Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Neutropenia,Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Sepsis,Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Sepsis,Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Viral infection,Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,Viral infection,Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Asthma, susceptibility to, 600807",Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Asthma, susceptibility to, 600807",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type A",Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type A",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type B",Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1q deficiency, type B",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Dementia, vascular, susceptibility to",Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Dementia, vascular, susceptibility to",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lupus nephritis, susceptibility to",Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lupus nephritis, susceptibility to",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lymphoma, progression of",Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Lymphoma, progression of",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Malaria, cerebral, susceptibility to",Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Malaria, cerebral, susceptibility to",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Migraine without aura, susceptibility to, 157300",Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Migraine without aura, susceptibility to, 157300",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Myocardial infarction, susceptibility to",Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Myocardial infarction, susceptibility to",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Neutropenia, alloimmune neonatal",Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Neutropenia, alloimmune neonatal",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Septic shock, susceptibility to",Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Septic shock, susceptibility to",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Viral infections, recurrent",Can We Miss Pigmented Lesions in Psoriasis Patients?
+etanercept,dizziness,abdominal pain,nausea,melanoma,vasodilatation,"Viral infections, recurrent",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,Alzheimer disease,Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,"Conjunctivitis, ligneous",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,Plasminogen deficiency,Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,"Alzheimer disease, late-onset, susceptibility to, 104300",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,"Conjunctivitis, ligneous, 217090",Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+urokinase,back pain,fever,nausea,melanoma,vasodilatation,Plasminogen Tochigi disease,Addition of Etanercept and Extracorporeal Photopheresis (ECP) to Standard Graft-Versus-Host Disease (GVHD) Prophylaxis in Stem Cell Transplant
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Complementary component deficiency,Efficacy Study on Early Versus Late Abciximab Administration During Primary Coronary Angioplasty
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Glanzmann thrombasthenia,Efficacy Study on Early Versus Late Abciximab Administration During Primary Coronary Angioplasty
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"IgG receptor I, phagocytic, familial deficiency of",Efficacy Study on Early Versus Late Abciximab Administration During Primary Coronary Angioplasty
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Lupus erythematosus,Efficacy Study on Early Versus Late Abciximab Administration During Primary Coronary Angioplasty
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Lymphoma,Efficacy Study on Early Versus Late Abciximab Administration During Primary Coronary Angioplasty
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Neutropenia,Efficacy Study on Early Versus Late Abciximab Administration During Primary Coronary Angioplasty
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,Viral infection,Efficacy Study on Early Versus Late Abciximab Administration During Primary Coronary Angioplasty
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"C1q deficiency, type A",Efficacy Study on Early Versus Late Abciximab Administration During Primary Coronary Angioplasty
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"C1q deficiency, type B",Efficacy Study on Early Versus Late Abciximab Administration During Primary Coronary Angioplasty
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"C1s deficiency, isolated",Efficacy Study on Early Versus Late Abciximab Administration During Primary Coronary Angioplasty
+abciximab,back pain,fever,nausea,melanoma,vasodilatation,"Glanzmann thrombasthenia, type B",Efficacy Study on Early Versus Late Abciximab Administration During Primary Coronary Angioplasty
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Asthma,Low Doses Corticosteroids as Adjuvant Therapy for the Treatment of Severe H1N1 Flu
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Atherosclerosis,Low Doses Corticosteroids as Adjuvant Therapy for the Treatment of Severe H1N1 Flu
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Cortisol resistance,Low Doses Corticosteroids as Adjuvant Therapy for the Treatment of Severe H1N1 Flu
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Malaria,Low Doses Corticosteroids as Adjuvant Therapy for the Treatment of Severe H1N1 Flu
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,Obesity,Low Doses Corticosteroids as Adjuvant Therapy for the Treatment of Severe H1N1 Flu
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Asthma, dimished response to antileukotriene treatment in, 600807",Low Doses Corticosteroids as Adjuvant Therapy for the Treatment of Severe H1N1 Flu
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Atherosclerosis, susceptibility to",Low Doses Corticosteroids as Adjuvant Therapy for the Treatment of Severe H1N1 Flu
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Malaria, resistance to, 248310",Low Doses Corticosteroids as Adjuvant Therapy for the Treatment of Severe H1N1 Flu
+hydrocortisone,back pain,fever,nausea,melanoma,vasodilatation,"Obesity, adrenal insufficiency, and red hair",Low Doses Corticosteroids as Adjuvant Therapy for the Treatment of Severe H1N1 Flu
